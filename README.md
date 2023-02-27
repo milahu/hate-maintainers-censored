@@ -19,6 +19,8 @@ i have appealed the ban, but github support ignores me.
 no surprise, because either github is already subverted by the woke mob,
 or github is afraid of the woke mob.
 
+## banned
+
 > "the nix community" bullied github into censoring my repo
 
 why? i was [banned](https://github.com/NixOS/moderation/commit/836964980e170fe6c856eb0296c27b8337309be8) from "the nix community" for "hate speech".
