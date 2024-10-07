@@ -39,4 +39,8 @@ no matter how fake and fragile.
 ## moved
 
 i have moved my `hate-maintainers` repo to darktea, a tor-hidden git provider.
-you can find my profile at http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/
+
+you can find me at
+
+- darktea: http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu
+- righttoprivacy: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu
