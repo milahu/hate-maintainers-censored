@@ -38,7 +38,7 @@ no matter how fake and fragile.
 
 ## moved
 
-i have moved my `hate-maintainers` repo to darktea, a tor-hidden git provider.
+i have moved my `hate-maintainers` repo to darktea, a [tor-hidden git provider](https://github.com/milahu/darknet-git-hosting-services).
 
 you can find me at
 
